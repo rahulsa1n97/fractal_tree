@@ -1,1 +1,1 @@
-# fractal_tree
+# fractal_triangle
